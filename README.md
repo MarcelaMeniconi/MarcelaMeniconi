@@ -1,3 +1,6 @@
+
+# Cambio de la fork - Sandro
+
 # Hola soy Marcela! Y soy Tecnica Quimica.
 
 ## Acerca de mi
@@ -21,3 +24,4 @@ Me gustaria poder tener mi primer trabajo en el area informatica el año que vie
 ## Hobbies
 
 - Dancing: ...
+
